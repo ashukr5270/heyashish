@@ -1,6 +1,6 @@
 👋 Hi there, I'm Ashish Kumar
 
-🚀 Cloud Engineer | B.Tech CS @ Maharshi Dayanand University | 
+🚀 Cloud Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
 AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure
 
 🔰 Currently Learning & Practicing:
@@ -16,7 +16,6 @@ https://ashukr5270.github.io/My-Portfolio-/
 
 💨 Reach Me At:
 ✉️ ashumgr0000@gmail.com
-🔗 https://www.linkedin.com/in/
-ashish70
+🔗 https://www.linkedin.com/in/ashish70
 
 ✨"Always curious, always building"
