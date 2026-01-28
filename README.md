@@ -1,4 +1,3 @@
-![logo](https://github.com/ashukr5270/heyashish/blob/main/README.md)
 👋 Hi there, I'm Ashish Kumar
 
 🚀 Cloud Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
