@@ -12,7 +12,7 @@ AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure
 . Cloud Infrastructure
 
 📌 Portfolio Website:
-https://ashukr5270.github.io/My-Portfolio-/
+https://ashukr5270.github.io/Portfolio/
 
 👩🏻‍💻 All My Project: https://github.com/ashukr5270
 
