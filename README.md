@@ -2,15 +2,16 @@
 
 ![Image Alt](https://github.com/ashukr5270/heyashish/blob/main/Ashish.Imgg.jpeg?raw=true)
 
-🚀 AWS Cloud Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
-AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure | Terraform | Docker |
-Kubernetes | CI/CD 
+🚀 AWS Cloud / Devops Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
+AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure | Python/Bash |Terraform | Docker |
+Kubernetes | CI/CD Pipelines
 
 🔰 Currently Learning & Practicing:
 . AWS Services 
 . Hybrid Cloud
 . Cloud Automation
 . Cloud Infrastructure
+. Devops Services
 
 📌 Portfolio Website:
 https://ashukr5270.github.io/Portfolio/
