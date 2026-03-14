@@ -3,8 +3,8 @@
 ![Image Alt](https://github.com/ashukr5270/heyashish/blob/main/Ashish.Imgg.jpeg?raw=true)
 
 🚀 AWS Cloud / Devops Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
-AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure | Python/Bash |Terraform | Docker |
-Kubernetes | CI/CD Pipelines
+AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure | Linux | Networking | 
+Python/Bash |Terraform | Docker | Kubernetes | CI/CD Pipelines
 
 🔰 Currently Learning & Practicing:
 . AWS Services 
