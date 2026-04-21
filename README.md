@@ -4,7 +4,7 @@
 
 🚀 AWS Cloud / Devops Engineer | B.Tech CS @ Maharshi Dayanand University, Rohtak(Haryana) | 
 AWS | Log Analysis | Hybrid Cloud | Cloud Automation | Cloud Infrastructure | Linux | Networking | 
-Python/Bash |Terraform | Docker | Kubernetes | CI/CD Pipelines
+Python/Bash |Terraform 
 
 🔰 Currently Learning & Practicing:
 . AWS Services 
