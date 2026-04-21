@@ -11,7 +11,7 @@ Python/Bash |Terraform
 . Hybrid Cloud
 . Cloud Automation
 . Cloud Infrastructure
-. Devops Services
+. Log Analysis
 
 📌 Portfolio Website:
 https://ashukr5270.github.io/Portfolio/
